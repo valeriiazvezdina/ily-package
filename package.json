@@ -1,0 +1,14 @@
+{
+  "name": "@zvezdval/ily",
+  "version": "4.2.0",
+  "description": "my first npm custom package",
+  "main": "index.js",
+  "bin": {
+    "ily": "./cli.js"
+  },
+  "author": "Valeriia Zvezdina",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
